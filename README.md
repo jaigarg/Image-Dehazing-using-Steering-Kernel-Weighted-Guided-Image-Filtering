@@ -1,6 +1,6 @@
 # Image-Dehazing-using-Steering-Kernel-Weighted-Guided-Image-Filtering
 
-We have implemented **Weighted Guided Image Filtering with Steering Kernel** ([Research Paper Link](https://ieeexplore.ieee.org/abstract/document/8767028)) and merged it with 3 other research papers, namely [Guided Image Filtering](https://ieeexplore.ieee.org/document/6319316), [Kernel Regression for Image Processing and Reconstruction](https://ieeexplore.ieee.org/document/4060955) and [Single Haze Removal for the purpose of application in Image Dehazing and Enhancement using SKWGIF](https://ieeexplore.ieee.org/document/5567108).
+We have implemented **Weighted Guided Image Filtering with Steering Kernel** ([Research Paper Link](https://ieeexplore.ieee.org/abstract/document/8767028)) and merged it with 3 other research papers, namely [Guided Image Filtering](https://ieeexplore.ieee.org/document/6319316), [Kernel Regression for Image Processing and Reconstruction](https://ieeexplore.ieee.org/document/4060955) and [Single Image Haze Removal Using Dark Channel Prior](https://ieeexplore.ieee.org/document/5567108) for the purpose of application in Image Dehazing and Enhancement using SKWGIF.
 
 **We have divided the project into three parts namely:**
 1.	Steering Kernel WGIF Implementation
